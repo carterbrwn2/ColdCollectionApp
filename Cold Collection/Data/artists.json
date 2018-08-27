@@ -1,0 +1,20 @@
+{
+	"bios" : [
+	{
+		"name":"Race Bannon" ,
+		"bio":"Race Bannon is a producer, DJ, and graphic designer for the Cold Collection" ,
+		"spotifyLink":"http://racebannonmusic.com/" ,
+		"amLink":"" ,
+		"aviPath":"race-bannon-"
+	} ,
+                 
+	{
+		"name":"96 Sins" ,
+		"bio":"96 sins is an artist/producer and is one of several integral parts of the The Cold Collection. Far from his native land, 96 continues to reimagine the glacial conventions of modern sound with other-worldly melodies and infectious grooves that unearth elusive affectations dormant in the depths of your mind." ,
+		"spotifyLink":"" ,
+		"amLink":"" ,
+		"aviPath":"96-sins-"
+	}
+	
+	]
+}

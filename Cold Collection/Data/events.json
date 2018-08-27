@@ -1,0 +1,30 @@
+{
+    "events" : {
+        "2018 09 01": [
+            {
+                       "artistName": "Static Res",
+                       "eventType": "Mixtape",
+                       "title": "Braindead 2",
+                       "eventTime": "23:00:00",
+                       "eventLength": 3600
+            },
+            
+            {
+                       "artistName": "Cold Collection",
+                       "eventType": "Show",
+                       "title": "Snowdaze 2.0",
+                       "eventTime": "20:00:00",
+                       "eventLength": 14400
+            }
+        ],
+        "2018 10 20" : [
+            {
+                        "artistName": "Ped Paul",
+                        "eventType": "Album",
+                        "title": "Hello Society 2",
+                        "eventTime": "23:00:00",
+                        "eventLength": 3600
+            }
+        ]
+    }
+}
